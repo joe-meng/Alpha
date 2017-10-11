@@ -1,0 +1,6 @@
+pika==0.10.0
+PyMySQL==0.7.11
+pytz==2017.2
+redis==2.10.6
+SQLAlchemy==1.1.13
+whenpy==0.3.0
