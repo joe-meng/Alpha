@@ -12,7 +12,7 @@ Pygments==2.2.0
 Scrapy==1.4.0
 incremental==17.5.0
 Twisted==17.1.0
-Werkzeug==0.12.1
+Werkzeug==0.15.3
 WsgiDAV==2.2.1
 appdirs==1.4.3
 appnope==0.1.0
