@@ -3,7 +3,7 @@ Automat==0.6.0
 Django==1.11.3
 Flask-Login==0.4.0
 Flask==0.12.1
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 Pillow==4.1.1
 PyDispatcher==2.0.5
