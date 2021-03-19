@@ -36,7 +36,7 @@ django-cors-headers==2.1.0
 django-extensions==1.8.0
 django-filter==1.0.4
 django-rest-swagger==2.1.2
-djangorestframework==3.6.3
+djangorestframework==3.11.2
 elasticsearch==5.4.0
 fake-useragent==0.1.7
 html2text==2016.9.19
