@@ -8,7 +8,7 @@ MarkupSafe==1.0
 Pillow==4.1.1
 PyDispatcher==2.0.5
 PyExecJS==1.4.0
-Pygments==2.2.0
+Pygments==2.7.4
 Scrapy==1.4.0
 incremental==17.5.0
 Twisted==17.1.0
