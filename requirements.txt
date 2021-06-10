@@ -1,6 +1,6 @@
 APScheduler==3.3.1
 Automat==0.6.0
-Django==1.11.3
+Django==2.2.24
 Flask-Login==0.4.0
 Flask==0.12.1
 Jinja2==2.9.6
