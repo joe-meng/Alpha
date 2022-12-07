@@ -104,4 +104,4 @@ wmi==1.4.9
 PyExecJS==1.4.0
 Fabric3==1.13.1.post1
 pymongo==3.4.0
-certifi==2015.04.28
+certifi==2022.12.7
